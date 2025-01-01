@@ -7,5 +7,7 @@
 - [x] [AppSignal - Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 
 ## 1/1/2025
+
+## List
 - [ ] [Greg Molnar blog - What changed in Rails this year?](https://greg.molnar.io/blog/what-changed-in-rails-this-year)
 - [ ] [Rails Designer blog - Stimulus Features You (Didn't) Know](https://railsdesigner.com/lesser-known-stimulus-features)
