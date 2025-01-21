@@ -13,3 +13,4 @@
 - [ ] [Rails Designer blog - Stimulus Features You (Didn't) Know](https://railsdesigner.com/lesser-known-stimulus-features)
 - [ ] [LinkedIn - What Shopify app should you build in 2025?](https://www.linkedin.com/pulse/what-shopify-app-should-you-build-2025-gil-greenberg-h3uce)
 - [ ] https://nts.strzibny.name/rails-autosave-form-turbo-stream/
+- [ ] [Avo - Component variants with the "class_variants" gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
