@@ -7,7 +7,8 @@
 - [x] [Avo - Add meta tags to a Rails applications](https://avohq.io/blog/meta-tags-rails)
 - [x] [AppSignal - Optimize Database Performance in Ruby on Rails and ActiveRecord](https://blog.appsignal.com/2024/10/30/optimize-database-performance-in-ruby-on-rails-and-activerecord.html)
 
-## 1/1/2025
+## 2/3/2025
+- [x] [Daniel Beck - Improving LCP on Your Shopify App](https://danielbeck.io/posts/improving-last-contentful-paint-shopify-app)
 
 ## List
 ### Blogs
