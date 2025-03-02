@@ -12,11 +12,12 @@
 
 ## List
 ### Blogs
-- [ ] [Greg Molnar blog - What changed in Rails this year?](https://greg.molnar.io/blog/what-changed-in-rails-this-year)
-- [ ] [Rails Designer blog - Stimulus Features You (Didn't) Know](https://railsdesigner.com/lesser-known-stimulus-features)
-- [ ] [LinkedIn - What Shopify app should you build in 2025?](https://www.linkedin.com/pulse/what-shopify-app-should-you-build-2025-gil-greenberg-h3uce)
-- [ ] https://nts.strzibny.name/rails-autosave-form-turbo-stream/
-- [ ] [Avo - Component variants with the "class_variants" gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [Greg Molnar blog - What changed in Rails this year?](https://greg.molnar.io/blog/what-changed-in-rails-this-year)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [Rails Designer blog - Stimulus Features You (Didn't) Know](https://railsdesigner.com/lesser-known-stimulus-features)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/357098?s=20&amp;v=4" /> [LinkedIn - What Shopify app should you build in 2025?](https://www.linkedin.com/pulse/what-shopify-app-should-you-build-2025-gil-greenberg-h3uce)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [Auto-saving Rails forms with Turbo Streams](https://nts.strzibny.name/rails-autosave-form-turbo-stream)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [Avo - Component variants with the "class_variants" gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
+- [ ] <img align="center" src="https://avatars.githubusercontent.com/u/8085?s=20&amp;v=4" /> [How to utilize Shopify’s Checkout UI extensions to verify VAT Number](https://maxico.dev/blog/shopify-checkout-vat-validation)
 
 ### Books
 - [ ] Domain-Driven Design
