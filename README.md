@@ -11,7 +11,7 @@
 - [x] <img align="center" src="https://avatars.githubusercontent.com/u/8085?s=20&amp;v=4" /> [Daniel Beck - Improving LCP on Your Shopify App](https://danielbeck.io/posts/improving-last-contentful-paint-shopify-app)
 
 ## 3/9/2025
-- [x] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [Migrating from Sidekiq to Solid Queue](https://www.donnfelker.com/migrating-from-sidekiq-to-solid-queue/)
+- [x] <img align="center" src="https://avatars.githubusercontent.com/u/4223?s=20&amp;v=4" /> [DONN FELKER - Migrating from Sidekiq to Solid Queue](https://www.donnfelker.com/migrating-from-sidekiq-to-solid-queue/)
 
 ## List
 ### Blogs
